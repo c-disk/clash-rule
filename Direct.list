@@ -35,6 +35,9 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+#pikpak
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
 
 # 58
 DOMAIN-SUFFIX,58.com
@@ -585,5 +588,4 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,mypikpak.net
+
